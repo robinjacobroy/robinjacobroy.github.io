@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my website on Welcome to my homepage</title>
+    <link>http://robinjacobroy.github.com/</link>
+    <description>Recent content in Welcome to my website on Welcome to my homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2023 13:44:52 +0530</lastBuildDate>
+    
+	<atom:link href="http://robinjacobroy.github.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research Projects</title>
+      <link>http://robinjacobroy.github.com/projects/</link>
+      <pubDate>Mon, 07 Aug 2023 10:12:03 +0530</pubDate>
+      
+      <guid>http://robinjacobroy.github.com/projects/</guid>
+      <description>Here are the various Computer vision projects I worked on:
+ Protein Particle extraction from cryo-EM micrographs using Sematic Segmentation. Odonata Detetion Using YOLO algorithm Tree canopy delination using U-net Drosophila melogaster activity recognition using CNN Mathematical symbol recognition Image Enhancement using Pix2Pix GAN Identification of freshwater fishes from underwater camera feeds.  </description>
+    </item>
+    
+    <item>
+      <title>Publications and Presentations</title>
+      <link>http://robinjacobroy.github.com/presnpub/</link>
+      <pubDate>Thu, 17 Aug 2023 17:10:33 +0530</pubDate>
+      
+      <guid>http://robinjacobroy.github.com/presnpub/</guid>
+      <description>Blesson George, Anshul Assaiya, Robin Jacob Roy, Ajit Kembhavi, Radha Chauhan, Geetha Paul, Janesh Kumar, Ninan Sajeeth Philip. “CASSPER is a semantic segmentation‐based particle picking algorithm for single‐particle cryo‐electron microscopy”. Communications Biology ‐ Nature. February 2021.  Conference Presentations:   “Image Enhancement using Deep Learning GAN” at the National Seminar, NSAMAP‐2023, organized by St. Thomas College Kozhencherry in January 2023.
+  “Automated Feature Extraction and Classification of Odonates” at the National Seminar, SIAP‐2019, organized by Govt.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://robinjacobroy.github.com/about/</link>
+      <pubDate>Mon, 07 Aug 2023 10:15:15 +0530</pubDate>
+      
+      <guid>http://robinjacobroy.github.com/about/</guid>
+      <description>I&amp;rsquo;m Robin Jacob Roy. I&amp;rsquo;m working as a Computer Vision researcher at airis4D, Thelliyoor and has a profound knowledge on various Computer Vision techniques in Python.
+Checkout my résumé
+Rach me out at:
+ Github LinkedIn Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
